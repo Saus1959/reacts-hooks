@@ -10,7 +10,9 @@
       "founded": 1902,
       "trophies": 95,
       "topPlayers": ["Kylian Mbappé", "Vinícius Júnior", "Jude Bellingham"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Real_Madrid_CF.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Real_Madrid_CF.svg",
+      "rating": 5.0,
+      "isSaved": false
     },
     {
       "id": 2,
@@ -22,7 +24,9 @@
       "founded": 1899,
       "trophies": 96,
       "topPlayers": ["Lamine Yamal", "Robert Lewandowski", "Pedri"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Barcelona_(crest).svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Barcelona_(crest).svg",
+      "rating": 5.0,
+      "isSaved": false
     },
     {
       "id": 3,
@@ -34,7 +38,9 @@
       "founded": 1903,
       "trophies": 39,
       "topPlayers": ["Antoine Griezmann", "Julián Álvarez", "Koke"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Atletico_Madrid_2017_logo.svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 4,
@@ -46,7 +52,9 @@
       "founded": 1878,
       "trophies": 68,
       "topPlayers": ["Bruno Fernandes", "Rasmus Højlund", "Marcus Rashford"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Manchester_United_FC_crest.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Manchester_United_FC_crest.svg",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 5,
@@ -58,7 +66,9 @@
       "founded": 1880,
       "trophies": 34,
       "topPlayers": ["Erling Haaland", "Kevin De Bruyne", "Phil Foden"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Manchester_City_FC_badge.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Manchester_City_FC_badge.svg",
+      "rating": 5.0,
+      "isSaved": false
     },
     {
       "id": 6,
@@ -70,7 +80,9 @@
       "founded": 1892,
       "trophies": 68,
       "topPlayers": ["Mohamed Salah", "Virgil van Dijk", "Alexis Mac Allister"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Liverpool_FC.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Liverpool_FC.svg",
+      "rating": 5.0,
+      "isSaved": false
     },
     {
       "id": 7,
@@ -82,7 +94,9 @@
       "founded": 1905,
       "trophies": 34,
       "topPlayers": ["Cole Palmer", "Enzo Fernández", "Nicolas Jackson"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Chelsea_FC.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Chelsea_FC.svg",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 8,
@@ -94,7 +108,9 @@
       "founded": 1886,
       "trophies": 48,
       "topPlayers": ["Bukayo Saka", "Martin Ødegaard", "Declan Rice"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Arsenal_FC.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Arsenal_FC.svg",
+      "rating": 5.0,
+      "isSaved": false
     },
     {
       "id": 9,
@@ -106,7 +122,9 @@
       "founded": 1882,
       "trophies": 26,
       "topPlayers": ["Son Heung-min", "James Maddison", "Dominic Solanke"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Tottenham_Hotspur.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Tottenham_Hotspur.svg",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 10,
@@ -118,7 +136,9 @@
       "founded": 1900,
       "trophies": 74,
       "topPlayers": ["Harry Kane", "Jamal Musiala", "Leroy Sané"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Bayern_München_logo_(2017).svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Bayern_München_logo_(2017).svg",
+      "rating": 5.0,
+      "isSaved": false
     },
     {
       "id": 11,
@@ -130,7 +150,9 @@
       "founded": 1909,
       "trophies": 21,
       "topPlayers": ["Julian Brandt", "Karim Adeyemi", "Serhou Guirassy"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Borussia_Dortmund_logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Borussia_Dortmund_logo.svg",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 12,
@@ -142,7 +164,9 @@
       "founded": 2009,
       "trophies": 3,
       "topPlayers": ["Benjamin Šeško", "Xavi Simons", "Lois Openda"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/RB_Leipzig_2014_logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/RB_Leipzig_2014_logo.svg",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 13,
@@ -154,7 +178,9 @@
       "founded": 1904,
       "trophies": 8,
       "topPlayers": ["Florian Wirtz", "Victor Boniface", "Granit Xhaka"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Bayer_04_Leverkusen_logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Bayer_04_Leverkusen_logo.svg",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 14,
@@ -166,7 +192,9 @@
       "founded": 1897,
       "trophies": 71,
       "topPlayers": ["Dušan Vlahović", "Kenan Yıldız", "Federico Chiesa"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Juventus_FC_2017_logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Juventus_FC_2017_logo.svg",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 15,
@@ -178,7 +206,9 @@
       "founded": 1899,
       "trophies": 49,
       "topPlayers": ["Rafael Leão", "Christian Pulisic", "Mike Maignan"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Logo_of_AC_Milan.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Logo_of_AC_Milan.svg",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 16,
@@ -190,7 +220,9 @@
       "founded": 1908,
       "trophies": 46,
       "topPlayers": ["Lautaro Martínez", "Nicolò Barella", "Hakan Çalhanoğlu"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Internazionale_Milano_2021.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Internazionale_Milano_2021.svg",
+      "rating": 5.0,
+      "isSaved": false
     },
     {
       "id": 17,
@@ -202,7 +234,9 @@
       "founded": 1927,
       "trophies": 22,
       "topPlayers": ["Paulo Dybala", "Artem Dovbyk", "Lorenzo Pellegrini"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/AS_Roma_logo_(2017).svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/AS_Roma_logo_(2017).svg",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 18,
@@ -218,7 +252,9 @@
         "Khvicha Kvaratskhelia",
         "Scott McTominay"
       ],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/SSC_Napoli_2007.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/SSC_Napoli_2007.svg",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 19,
@@ -230,7 +266,9 @@
       "founded": 1970,
       "trophies": 47,
       "topPlayers": ["Ousmane Dembélé", "Bradley Barcola", "Vitinha"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Paris_Saint-Germain_F.C..svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 20,
@@ -246,7 +284,9 @@
         "Pierre-Emerick Aubameyang",
         "Amine Harit"
       ],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Olympique_Marseille_logo.svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 21,
@@ -258,7 +298,9 @@
       "founded": 1950,
       "trophies": 14,
       "topPlayers": ["Alexandre Lacazette", "Rayan Cherki", "Corentin Tolisso"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Olympique_lyonnais_logo.svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9798.png",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 22,
@@ -270,7 +312,9 @@
       "founded": 1924,
       "trophies": 12,
       "topPlayers": ["Takumi Minamino", "Folarin Balogun", "Wilfried Singo"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/AS_Monaco_FC.svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9829.png",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 23,
@@ -282,7 +326,9 @@
       "founded": 1900,
       "trophies": 36,
       "topPlayers": ["Brian Brobbey", "Kenneth Taylor", "Jordan Henderson"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Ajax_Amsterdam.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Ajax_Amsterdam.svg",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 24,
@@ -294,7 +340,9 @@
       "founded": 1913,
       "trophies": 25,
       "topPlayers": ["Luuk de Jong", "Malik Tillman", "Guus Til"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/PSV_Eindhoven.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/PSV_Eindhoven.svg",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 25,
@@ -306,7 +354,9 @@
       "founded": 1908,
       "trophies": 30,
       "topPlayers": ["Santiago Giménez", "Igor Paixão", "Quinten Timber"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Feyenoord_logo.svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10235.png",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 26,
@@ -318,7 +368,9 @@
       "founded": 1893,
       "trophies": 79,
       "topPlayers": ["Pepê", "Danny Namaso", "Francisco Conceição"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Porto.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Porto.svg",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 27,
@@ -330,7 +382,9 @@
       "founded": 1904,
       "trophies": 83,
       "topPlayers": ["Ángel Di María", "Kökçü", "João Neves"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/SL_Benfica_logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/SL_Benfica_logo.svg",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 28,
@@ -342,7 +396,9 @@
       "founded": 1906,
       "trophies": 44,
       "topPlayers": ["Viktor Gyökeres", "Pedro Gonçalves", "Morten Hjulmand"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Sporting_Clube_de_Portugal_(Logo).svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9768.png",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 29,
@@ -354,7 +410,9 @@
       "founded": 1887,
       "trophies": 54,
       "topPlayers": ["Kyogo Furuhashi", "Reo Hatate", "Daizen Maeda"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Celtic_FC.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Celtic_FC.svg",
+      "rating": 3.5,
+      "isSaved": false
     },
     {
       "id": 30,
@@ -366,7 +424,9 @@
       "founded": 1872,
       "trophies": 55,
       "topPlayers": ["James Tavernier", "Todd Cantwell", "Cyriel Dessers"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Rangers_FC.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Rangers_FC.svg",
+      "rating": 3.5,
+      "isSaved": false
     },
     {
       "id": 31,
@@ -378,7 +438,9 @@
       "founded": 1905,
       "trophies": 24,
       "topPlayers": ["Mauro Icardi", "Hakim Ziyech", "Kerem Aktürkoğlu"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Galatasaray_Sports_Club_Logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Galatasaray_Sports_Club_Logo.svg",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 32,
@@ -390,7 +452,9 @@
       "founded": 1907,
       "trophies": 19,
       "topPlayers": ["Dušan Tadić", "Edin Džeko", "İrfan Can Kahveci"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Fenerbahçe_SK.svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8695.png",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 33,
@@ -402,7 +466,9 @@
       "founded": 1925,
       "trophies": 8,
       "topPlayers": ["Wendel", "Claudinho", "Andrey Mostovoy"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Zenit_Saint_Petersburg_logo.svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8698.png",
+      "rating": 3.5,
+      "isSaved": false
     },
     {
       "id": 34,
@@ -414,7 +480,9 @@
       "founded": 1936,
       "trophies": 15,
       "topPlayers": ["Heorhiy Sudakov", "Danylo Sikan", "Yukhym Konoplia"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Shakhtar_Donetsk_logo.svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9728.png",
+      "rating": 3.5,
+      "isSaved": false
     },
     {
       "id": 35,
@@ -426,7 +494,9 @@
       "founded": 1901,
       "trophies": 38,
       "topPlayers": ["Franco Mastantuono", "Miguel Borja", "Rodrigo Aliendro"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Escudo_del_Club_Atlético_River_Plate.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Escudo_del_Club_Atlético_River_Plate.svg",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 36,
@@ -438,7 +508,9 @@
       "founded": 1905,
       "trophies": 34,
       "topPlayers": ["Edinson Cavani", "Miguel Merentiel", "Cristian Medina"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/CA_Boca_Juniors_logo18.svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10077.png",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 37,
@@ -450,7 +522,9 @@
       "founded": 1895,
       "trophies": 42,
       "topPlayers": ["Gerson", "Pedro", "Bruno Henrique"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Flamengo-RJ_(BRA).png"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9770.png",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 38,
@@ -462,7 +536,9 @@
       "founded": 1914,
       "trophies": 30,
       "topPlayers": ["Estêvão", "Raphael Veiga", "Gustavo Gómez"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Palmeiras_logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Palmeiras_logo.svg",
+      "rating": 4.5,
+      "isSaved": false
     },
     {
       "id": 39,
@@ -474,7 +550,9 @@
       "founded": 1930,
       "trophies": 24,
       "topPlayers": ["Luciano", "James Rodríguez", "Calleri"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Brasao_do_Sao_Paulo_Futebol_Clube.svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10277.png",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 40,
@@ -486,7 +564,9 @@
       "founded": 1916,
       "trophies": 33,
       "topPlayers": ["Henry Martín", "Álvaro Fidalgo", "Brian Rodríguez"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Club_America_2020.svg"
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6576.png",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 41,
@@ -498,7 +578,9 @@
       "founded": 1994,
       "trophies": 6,
       "topPlayers": ["Riqui Puig", "Gabriel Pec", "Dejan Joveljić"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Los_Angeles_Galaxy_logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Los_Angeles_Galaxy_logo.svg",
+      "rating": 3.5,
+      "isSaved": false
     },
     {
       "id": 42,
@@ -510,19 +592,23 @@
       "founded": 2018,
       "trophies": 2,
       "topPlayers": ["Lionel Messi", "Luis Suárez", "Sergio Busquets"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Inter_Miami_CF_logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Inter_Miami_CF_logo.svg",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 43,
-      "name": "Al Hilal SFC",
-      "country": "Saudi Arabia",
-      "league": "Saudi Pro League",
-      "city": "Riyadh",
-      "stadium": "Kingdom Arena",
-      "founded": 1957,
-      "trophies": 19,
-      "topPlayers": ["Neymar Jr", "Aleksandar Mitrović", "Ruben Neves"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Al-Hilal_SFC_Logo.svg"
+      "name": "Newcastle United",
+      "country": "England",
+      "league": "Premier League",
+      "city": "Newcastle upon Tyne",
+      "stadium": "St James' Park",
+      "founded": 1892,
+      "trophies": 14,
+      "topPlayers": ["Alexander Isak", "Bruno Guimarães", "Anthony Gordon"],
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8618.png",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 44,
@@ -534,31 +620,41 @@
       "founded": 1955,
       "trophies": 9,
       "topPlayers": ["Cristiano Ronaldo", "Sadio Mané", "Marcelo Brozović"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Al_Nassr_FC_Logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Al_Nassr_FC_Logo.svg",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 45,
-      "name": "Al Ahly SC",
-      "country": "Egypt",
-      "league": "Egyptian Premier League",
-      "city": "Cairo",
-      "stadium": "Cairo International Stadium",
-      "founded": 1907,
-      "trophies": 45,
-      "topPlayers": ["Percy Tau", "Mohamed Sherif", "Ali Maaloul"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Al_Ahly_SC_Logo.svg"
+      "name": "Athletic Club",
+      "country": "Spain",
+      "league": "La Liga",
+      "city": "Bilbao",
+      "stadium": "San Mamés",
+      "founded": 1898,
+      "trophies": 35,
+      "topPlayers": ["Nico Williams", "Iñaki Williams", "Oihan Sancet"],
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 46,
-      "name": "Kaizer Chiefs",
-      "country": "South Africa",
-      "league": "PSL",
-      "city": "Johannesburg",
-      "stadium": "FNB Stadium",
-      "founded": 1970,
-      "trophies": 21,
-      "topPlayers": ["Ranga Chivaviro", "Yusuf Maart", "Mduduzi Shabalala"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Kaizer_Chiefs_FC_logo.svg"
+      "name": "SS Lazio",
+      "country": "Italy",
+      "league": "Serie A",
+      "city": "Rome",
+      "stadium": "Stadio Olimpico",
+      "founded": 1900,
+      "trophies": 16,
+      "topPlayers": [
+        "Mattia Zaccagni",
+        "Taty Castellanos",
+        "Alessio Romagnoli"
+      ],
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 47,
@@ -570,7 +666,9 @@
       "founded": 1972,
       "trophies": 5,
       "topPlayers": ["Anderson Lopes", "Yan Matheus", "Kota Watanabe"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Yokohama_F_Marinos_logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Yokohama_F_Marinos_logo.svg",
+      "rating": 3.0,
+      "isSaved": false
     },
     {
       "id": 48,
@@ -582,31 +680,37 @@
       "founded": 1950,
       "trophies": 8,
       "topPlayers": ["Shinzo Koroki", "Yusuke Matsuo", "Marius Høibråten"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Urawa_Red_Diamonds_logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Urawa_Red_Diamonds_logo.svg",
+      "rating": 3.0,
+      "isSaved": false
     },
     {
       "id": 49,
-      "name": "Melbourne Victory",
-      "country": "Australia",
-      "league": "A-League",
-      "city": "Melbourne",
-      "stadium": "AAMI Park",
-      "founded": 2004,
-      "trophies": 7,
-      "topPlayers": ["Bruno Fornaroli", "Nishan Velupillay", "Alex King"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Melbourne_Victory_FC_logo.svg"
+      "name": "Eintracht Frankfurt",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "city": "Frankfurt",
+      "stadium": "Deutsche Bank Park",
+      "founded": 1899,
+      "trophies": 9,
+      "topPlayers": ["Omar Marmoush", "Hugo Ekitiké", "Kevin Trapp"],
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8398.png",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 50,
-      "name": "Al Ain FC",
-      "country": "UAE",
-      "league": "UAE Pro League",
-      "city": "Al Ain",
-      "stadium": "Hazza bin Zayed Stadium",
-      "founded": 1968,
-      "trophies": 15,
-      "topPlayers": ["Soufiane Rahimi", "Kodjo Laba", "Yahia Nader"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Al_Ain_FC_logo.svg"
+      "name": "FC Liverpool",
+      "country": "England",
+      "league": "Premier League",
+      "city": "Liverpool",
+      "stadium": "Anfield",
+      "founded": 1874,
+      "trophies": 25,
+      "topPlayers": ["Mohamed Salah", "Virgil van Dijk", "Alexis Mac Allister"],
+      "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 51,
@@ -618,7 +722,9 @@
       "founded": 1927,
       "trophies": 35,
       "topPlayers": ["Vitaliy Buialskyi", "Illia Zabarnyi", "Denys Popov"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Dynamo_Kyiv_logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Dynamo_Kyiv_logo.svg",
+      "rating": 3.5,
+      "isSaved": false
     },
     {
       "id": 52,
@@ -630,7 +736,9 @@
       "founded": 1877,
       "trophies": 13,
       "topPlayers": ["Matheus Cunha", "Pablo Sarabia", "Mario Lemina"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Wolverhampton_Wanderers.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Wolverhampton_Wanderers.svg",
+      "rating": 4.0,
+      "isSaved": false
     },
     {
       "id": 53,
@@ -642,7 +750,9 @@
       "founded": 1890,
       "trophies": 12,
       "topPlayers": ["Youssef En-Nesyri", "Isaac Romero", "Dodi Lukébakio"],
-      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Sevilla_FC_logo.svg"
+      "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Sevilla_FC_logo.svg",
+      "rating": 4.0,
+      "isSaved": false
     }
   ]
 }
