@@ -60,10 +60,6 @@ const ScoutWorkspace = () => {
     );
   };
 
-  const openStats = (clubId) => {
-    alert(clubId);
-  };
-
   return (
     <div className="px-2 pt-2 md:pt-4 lg:pt-5 md:row-start-2 flex flex-col w-full lg:items-start lg:grid lg:grid-cols-[1fr_260px] gap-4 lg:gap-6">
       <div className="pt-2 md:pt-3 lg:pt-4 min-w-0 rounded-lg bg-[#111722]">
@@ -72,7 +68,6 @@ const ScoutWorkspace = () => {
           clubs={filteredClubs}
           clubsCount={filteredClubs.length}
           onChangeSaved={saveClub}
-          onOpen={openStats}
         />
       </div>
       <SavedZone

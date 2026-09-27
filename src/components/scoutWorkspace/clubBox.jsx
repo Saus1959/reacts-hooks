@@ -20,16 +20,11 @@ const ClubBox = ({
   topPlayers,
   onChangeSaved,
   isSaved,
-  onOpenStats,
 }) => {
   const [isStatsOpen, setIsStatsOpen] = useState(false);
 
   const shiftSave = () => {
     onChangeSaved(clubId);
-  };
-
-  const openStats = () => {
-    onOpenStats(clubId);
   };
 
   return (

@@ -78,7 +78,6 @@ const GridList = ({ clubs, clubsCount, onChangeSaved, onOpen }) => {
               topPlayers={club.topPlayers}
               isList={clubsPosition === "list"}
               onChangeSaved={onChangeSaved}
-              onOpenStats={onOpen}
             />
           );
         })}

@@ -7,7 +7,7 @@ const SavedClubBox = ({ clubLogoUrl, clubName, onChange, clubId, onSave }) => {
     onChange(clubId);
   };
   return (
-    <div className="bg-slate-800 rounded-lg reltive flex items-center gap-2 py-3 px-2">
+    <div className="bg-slate-800 rounded-lg relative flex items-center gap-2 py-3 px-2">
       <div className="flex justify-center items-center size-12">
         <img
           src={clubLogoUrl}
@@ -18,7 +18,7 @@ const SavedClubBox = ({ clubLogoUrl, clubName, onChange, clubId, onSave }) => {
       <h3>{clubName}</h3>
       <button
         onClick={shiftUnsave}
-        className={`${onSave ? "hidden" : "absolute right-7 hover:text-[#20D99A]"} `}
+        className={`${onSave ? "hidden" : "absolute right-5 hover:text-[#20D99A]"} `}
       >
         <FontAwesomeIcon icon={faXmark} />
       </button>

@@ -1,7 +1,7 @@
 {
   "clubs": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Real Madrid",
       "country": "Spain",
       "league": "La Liga",
@@ -9,13 +9,17 @@
       "stadium": "Santiago Bernabéu",
       "founded": 1902,
       "trophies": 95,
-      "topPlayers": ["Kylian Mbappé", "Vinícius Júnior", "Jude Bellingham"],
+      "topPlayers": [
+        "Kylian Mbappé",
+        "Vinícius Júnior",
+        "Jude Bellingham"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Real_Madrid_CF.svg",
-      "rating": 5.0,
+      "rating": 5,
       "isSaved": false
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "FC Barcelona",
       "country": "Spain",
       "league": "La Liga",
@@ -23,13 +27,17 @@
       "stadium": "Spotify Camp Nou",
       "founded": 1899,
       "trophies": 96,
-      "topPlayers": ["Lamine Yamal", "Robert Lewandowski", "Pedri"],
+      "topPlayers": [
+        "Lamine Yamal",
+        "Robert Lewandowski",
+        "Pedri"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Barcelona_(crest).svg",
-      "rating": 5.0,
+      "rating": 5,
       "isSaved": false
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Atlético Madrid",
       "country": "Spain",
       "league": "La Liga",
@@ -37,13 +45,17 @@
       "stadium": "Cívitas Metropolitano",
       "founded": 1903,
       "trophies": 39,
-      "topPlayers": ["Antoine Griezmann", "Julián Álvarez", "Koke"],
+      "topPlayers": [
+        "Antoine Griezmann",
+        "Julián Álvarez",
+        "Koke"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Manchester United",
       "country": "England",
       "league": "Premier League",
@@ -51,13 +63,17 @@
       "stadium": "Old Trafford",
       "founded": 1878,
       "trophies": 68,
-      "topPlayers": ["Bruno Fernandes", "Rasmus Højlund", "Marcus Rashford"],
+      "topPlayers": [
+        "Bruno Fernandes",
+        "Rasmus Højlund",
+        "Marcus Rashford"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Manchester_United_FC_crest.svg",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Manchester City",
       "country": "England",
       "league": "Premier League",
@@ -65,13 +81,17 @@
       "stadium": "Etihad Stadium",
       "founded": 1880,
       "trophies": 34,
-      "topPlayers": ["Erling Haaland", "Kevin De Bruyne", "Phil Foden"],
+      "topPlayers": [
+        "Erling Haaland",
+        "Kevin De Bruyne",
+        "Phil Foden"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Manchester_City_FC_badge.svg",
-      "rating": 5.0,
+      "rating": 5,
       "isSaved": false
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Liverpool FC",
       "country": "England",
       "league": "Premier League",
@@ -79,13 +99,17 @@
       "stadium": "Anfield",
       "founded": 1892,
       "trophies": 68,
-      "topPlayers": ["Mohamed Salah", "Virgil van Dijk", "Alexis Mac Allister"],
+      "topPlayers": [
+        "Mohamed Salah",
+        "Virgil van Dijk",
+        "Alexis Mac Allister"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Liverpool_FC.svg",
-      "rating": 5.0,
+      "rating": 5,
       "isSaved": false
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Chelsea FC",
       "country": "England",
       "league": "Premier League",
@@ -93,13 +117,17 @@
       "stadium": "Stamford Bridge",
       "founded": 1905,
       "trophies": 34,
-      "topPlayers": ["Cole Palmer", "Enzo Fernández", "Nicolas Jackson"],
+      "topPlayers": [
+        "Cole Palmer",
+        "Enzo Fernández",
+        "Nicolas Jackson"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Chelsea_FC.svg",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Arsenal FC",
       "country": "England",
       "league": "Premier League",
@@ -107,13 +135,17 @@
       "stadium": "Emirates Stadium",
       "founded": 1886,
       "trophies": 48,
-      "topPlayers": ["Bukayo Saka", "Martin Ødegaard", "Declan Rice"],
+      "topPlayers": [
+        "Bukayo Saka",
+        "Martin Ødegaard",
+        "Declan Rice"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Arsenal_FC.svg",
-      "rating": 5.0,
+      "rating": 5,
       "isSaved": false
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Tottenham Hotspur",
       "country": "England",
       "league": "Premier League",
@@ -121,13 +153,17 @@
       "stadium": "Tottenham Hotspur Stadium",
       "founded": 1882,
       "trophies": 26,
-      "topPlayers": ["Son Heung-min", "James Maddison", "Dominic Solanke"],
+      "topPlayers": [
+        "Son Heung-min",
+        "James Maddison",
+        "Dominic Solanke"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Tottenham_Hotspur.svg",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "FC Bayern Munich",
       "country": "Germany",
       "league": "Bundesliga",
@@ -135,13 +171,17 @@
       "stadium": "Allianz Arena",
       "founded": 1900,
       "trophies": 74,
-      "topPlayers": ["Harry Kane", "Jamal Musiala", "Leroy Sané"],
+      "topPlayers": [
+        "Harry Kane",
+        "Jamal Musiala",
+        "Leroy Sané"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Bayern_München_logo_(2017).svg",
-      "rating": 5.0,
+      "rating": 5,
       "isSaved": false
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Borussia Dortmund",
       "country": "Germany",
       "league": "Bundesliga",
@@ -149,13 +189,17 @@
       "stadium": "Signal Iduna Park",
       "founded": 1909,
       "trophies": 21,
-      "topPlayers": ["Julian Brandt", "Karim Adeyemi", "Serhou Guirassy"],
+      "topPlayers": [
+        "Julian Brandt",
+        "Karim Adeyemi",
+        "Serhou Guirassy"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Borussia_Dortmund_logo.svg",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "RB Leipzig",
       "country": "Germany",
       "league": "Bundesliga",
@@ -163,13 +207,17 @@
       "stadium": "Red Bull Arena",
       "founded": 2009,
       "trophies": 3,
-      "topPlayers": ["Benjamin Šeško", "Xavi Simons", "Lois Openda"],
+      "topPlayers": [
+        "Benjamin Šeško",
+        "Xavi Simons",
+        "Lois Openda"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/RB_Leipzig_2014_logo.svg",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Bayer Leverkusen",
       "country": "Germany",
       "league": "Bundesliga",
@@ -177,13 +225,17 @@
       "stadium": "BayArena",
       "founded": 1904,
       "trophies": 8,
-      "topPlayers": ["Florian Wirtz", "Victor Boniface", "Granit Xhaka"],
+      "topPlayers": [
+        "Florian Wirtz",
+        "Victor Boniface",
+        "Granit Xhaka"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Bayer_04_Leverkusen_logo.svg",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Juventus FC",
       "country": "Italy",
       "league": "Serie A",
@@ -191,13 +243,17 @@
       "stadium": "Allianz Stadium",
       "founded": 1897,
       "trophies": 71,
-      "topPlayers": ["Dušan Vlahović", "Kenan Yıldız", "Federico Chiesa"],
+      "topPlayers": [
+        "Dušan Vlahović",
+        "Kenan Yıldız",
+        "Federico Chiesa"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Juventus_FC_2017_logo.svg",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "AC Milan",
       "country": "Italy",
       "league": "Serie A",
@@ -205,13 +261,17 @@
       "stadium": "San Siro",
       "founded": 1899,
       "trophies": 49,
-      "topPlayers": ["Rafael Leão", "Christian Pulisic", "Mike Maignan"],
+      "topPlayers": [
+        "Rafael Leão",
+        "Christian Pulisic",
+        "Mike Maignan"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Logo_of_AC_Milan.svg",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Inter Milan",
       "country": "Italy",
       "league": "Serie A",
@@ -219,13 +279,17 @@
       "stadium": "San Siro",
       "founded": 1908,
       "trophies": 46,
-      "topPlayers": ["Lautaro Martínez", "Nicolò Barella", "Hakan Çalhanoğlu"],
+      "topPlayers": [
+        "Lautaro Martínez",
+        "Nicolò Barella",
+        "Hakan Çalhanoğlu"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Internazionale_Milano_2021.svg",
-      "rating": 5.0,
+      "rating": 5,
       "isSaved": false
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "AS Roma",
       "country": "Italy",
       "league": "Serie A",
@@ -233,13 +297,17 @@
       "stadium": "Stadio Olimpico",
       "founded": 1927,
       "trophies": 22,
-      "topPlayers": ["Paulo Dybala", "Artem Dovbyk", "Lorenzo Pellegrini"],
+      "topPlayers": [
+        "Paulo Dybala",
+        "Artem Dovbyk",
+        "Lorenzo Pellegrini"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/AS_Roma_logo_(2017).svg",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "SSC Napoli",
       "country": "Italy",
       "league": "Serie A",
@@ -253,11 +321,11 @@
         "Scott McTominay"
       ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/SSC_Napoli_2007.svg",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Paris Saint-Germain",
       "country": "France",
       "league": "Ligue 1",
@@ -265,13 +333,17 @@
       "stadium": "Parc des Princes",
       "founded": 1970,
       "trophies": 47,
-      "topPlayers": ["Ousmane Dembélé", "Bradley Barcola", "Vitinha"],
+      "topPlayers": [
+        "Ousmane Dembélé",
+        "Bradley Barcola",
+        "Vitinha"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Olympique Marseille",
       "country": "France",
       "league": "Ligue 1",
@@ -285,11 +357,11 @@
         "Amine Harit"
       ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Olympique Lyonnais",
       "country": "France",
       "league": "Ligue 1",
@@ -297,13 +369,17 @@
       "stadium": "Groupama Stadium",
       "founded": 1950,
       "trophies": 14,
-      "topPlayers": ["Alexandre Lacazette", "Rayan Cherki", "Corentin Tolisso"],
+      "topPlayers": [
+        "Alexandre Lacazette",
+        "Rayan Cherki",
+        "Corentin Tolisso"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9798.png",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "AS Monaco",
       "country": "France",
       "league": "Ligue 1",
@@ -311,13 +387,17 @@
       "stadium": "Stade Louis II",
       "founded": 1924,
       "trophies": 12,
-      "topPlayers": ["Takumi Minamino", "Folarin Balogun", "Wilfried Singo"],
+      "topPlayers": [
+        "Takumi Minamino",
+        "Folarin Balogun",
+        "Wilfried Singo"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9829.png",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "Ajax Amsterdam",
       "country": "Netherlands",
       "league": "Eredivisie",
@@ -325,13 +405,17 @@
       "stadium": "Johan Cruyff Arena",
       "founded": 1900,
       "trophies": 36,
-      "topPlayers": ["Brian Brobbey", "Kenneth Taylor", "Jordan Henderson"],
+      "topPlayers": [
+        "Brian Brobbey",
+        "Kenneth Taylor",
+        "Jordan Henderson"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Ajax_Amsterdam.svg",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "PSV Eindhoven",
       "country": "Netherlands",
       "league": "Eredivisie",
@@ -339,13 +423,17 @@
       "stadium": "Philips Stadion",
       "founded": 1913,
       "trophies": 25,
-      "topPlayers": ["Luuk de Jong", "Malik Tillman", "Guus Til"],
+      "topPlayers": [
+        "Luuk de Jong",
+        "Malik Tillman",
+        "Guus Til"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/PSV_Eindhoven.svg",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Feyenoord Rotterdam",
       "country": "Netherlands",
       "league": "Eredivisie",
@@ -353,13 +441,17 @@
       "stadium": "De Kuip",
       "founded": 1908,
       "trophies": 30,
-      "topPlayers": ["Santiago Giménez", "Igor Paixão", "Quinten Timber"],
+      "topPlayers": [
+        "Santiago Giménez",
+        "Igor Paixão",
+        "Quinten Timber"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10235.png",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "FC Porto",
       "country": "Portugal",
       "league": "Primeira Liga",
@@ -367,13 +459,17 @@
       "stadium": "Estádio do Dragão",
       "founded": 1893,
       "trophies": 79,
-      "topPlayers": ["Pepê", "Danny Namaso", "Francisco Conceição"],
+      "topPlayers": [
+        "Pepê",
+        "Danny Namaso",
+        "Francisco Conceição"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Porto.svg",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 27,
+      "id": "27",
       "name": "Benfica",
       "country": "Portugal",
       "league": "Primeira Liga",
@@ -381,13 +477,17 @@
       "stadium": "Estádio da Luz",
       "founded": 1904,
       "trophies": 83,
-      "topPlayers": ["Ángel Di María", "Kökçü", "João Neves"],
+      "topPlayers": [
+        "Ángel Di María",
+        "Kökçü",
+        "João Neves"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/SL_Benfica_logo.svg",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "Sporting CP",
       "country": "Portugal",
       "league": "Primeira Liga",
@@ -395,13 +495,17 @@
       "stadium": "Estádio José Alvalade",
       "founded": 1906,
       "trophies": 44,
-      "topPlayers": ["Viktor Gyökeres", "Pedro Gonçalves", "Morten Hjulmand"],
+      "topPlayers": [
+        "Viktor Gyökeres",
+        "Pedro Gonçalves",
+        "Morten Hjulmand"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9768.png",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 29,
+      "id": "29",
       "name": "Celtic FC",
       "country": "Scotland",
       "league": "Scottish Premiership",
@@ -409,13 +513,17 @@
       "stadium": "Celtic Park",
       "founded": 1887,
       "trophies": 54,
-      "topPlayers": ["Kyogo Furuhashi", "Reo Hatate", "Daizen Maeda"],
+      "topPlayers": [
+        "Kyogo Furuhashi",
+        "Reo Hatate",
+        "Daizen Maeda"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Celtic_FC.svg",
       "rating": 3.5,
       "isSaved": false
     },
     {
-      "id": 30,
+      "id": "30",
       "name": "Rangers FC",
       "country": "Scotland",
       "league": "Scottish Premiership",
@@ -423,13 +531,17 @@
       "stadium": "Ibrox Stadium",
       "founded": 1872,
       "trophies": 55,
-      "topPlayers": ["James Tavernier", "Todd Cantwell", "Cyriel Dessers"],
+      "topPlayers": [
+        "James Tavernier",
+        "Todd Cantwell",
+        "Cyriel Dessers"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Rangers_FC.svg",
       "rating": 3.5,
       "isSaved": false
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "Galatasaray SK",
       "country": "Turkey",
       "league": "Süper Lig",
@@ -437,13 +549,17 @@
       "stadium": "RAMS Park",
       "founded": 1905,
       "trophies": 24,
-      "topPlayers": ["Mauro Icardi", "Hakim Ziyech", "Kerem Aktürkoğlu"],
+      "topPlayers": [
+        "Mauro Icardi",
+        "Hakim Ziyech",
+        "Kerem Aktürkoğlu"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Galatasaray_Sports_Club_Logo.svg",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 32,
+      "id": "32",
       "name": "Fenerbahçe SK",
       "country": "Turkey",
       "league": "Süper Lig",
@@ -451,13 +567,17 @@
       "stadium": "Şükrü Saracoğlu Stadium",
       "founded": 1907,
       "trophies": 19,
-      "topPlayers": ["Dušan Tadić", "Edin Džeko", "İrfan Can Kahveci"],
+      "topPlayers": [
+        "Dušan Tadić",
+        "Edin Džeko",
+        "İrfan Can Kahveci"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8695.png",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 33,
+      "id": "33",
       "name": "Zenit Saint Petersburg",
       "country": "Russia",
       "league": "Russian Premier League",
@@ -465,13 +585,17 @@
       "stadium": "Gazprom Arena",
       "founded": 1925,
       "trophies": 8,
-      "topPlayers": ["Wendel", "Claudinho", "Andrey Mostovoy"],
+      "topPlayers": [
+        "Wendel",
+        "Claudinho",
+        "Andrey Mostovoy"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8698.png",
       "rating": 3.5,
       "isSaved": false
     },
     {
-      "id": 34,
+      "id": "34",
       "name": "Shakhtar Donetsk",
       "country": "Ukraine",
       "league": "Ukrainian Premier League",
@@ -479,13 +603,17 @@
       "stadium": "Donbass Arena",
       "founded": 1936,
       "trophies": 15,
-      "topPlayers": ["Heorhiy Sudakov", "Danylo Sikan", "Yukhym Konoplia"],
+      "topPlayers": [
+        "Heorhiy Sudakov",
+        "Danylo Sikan",
+        "Yukhym Konoplia"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9728.png",
       "rating": 3.5,
       "isSaved": false
     },
     {
-      "id": 35,
+      "id": "35",
       "name": "River Plate",
       "country": "Argentina",
       "league": "Argentine Primera División",
@@ -493,13 +621,17 @@
       "stadium": "Estadio Monumental",
       "founded": 1901,
       "trophies": 38,
-      "topPlayers": ["Franco Mastantuono", "Miguel Borja", "Rodrigo Aliendro"],
+      "topPlayers": [
+        "Franco Mastantuono",
+        "Miguel Borja",
+        "Rodrigo Aliendro"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Escudo_del_Club_Atlético_River_Plate.svg",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 36,
+      "id": "36",
       "name": "Boca Juniors",
       "country": "Argentina",
       "league": "Argentine Primera División",
@@ -507,13 +639,17 @@
       "stadium": "La Bombonera",
       "founded": 1905,
       "trophies": 34,
-      "topPlayers": ["Edinson Cavani", "Miguel Merentiel", "Cristian Medina"],
+      "topPlayers": [
+        "Edinson Cavani",
+        "Miguel Merentiel",
+        "Cristian Medina"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10077.png",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 37,
+      "id": "37",
       "name": "Flamengo",
       "country": "Brazil",
       "league": "Brasileirão",
@@ -521,13 +657,17 @@
       "stadium": "Maracanã",
       "founded": 1895,
       "trophies": 42,
-      "topPlayers": ["Gerson", "Pedro", "Bruno Henrique"],
+      "topPlayers": [
+        "Gerson",
+        "Pedro",
+        "Bruno Henrique"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9770.png",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 38,
+      "id": "38",
       "name": "Palmeiras",
       "country": "Brazil",
       "league": "Brasileirão",
@@ -535,13 +675,17 @@
       "stadium": "Allianz Parque",
       "founded": 1914,
       "trophies": 30,
-      "topPlayers": ["Estêvão", "Raphael Veiga", "Gustavo Gómez"],
+      "topPlayers": [
+        "Estêvão",
+        "Raphael Veiga",
+        "Gustavo Gómez"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Palmeiras_logo.svg",
       "rating": 4.5,
       "isSaved": false
     },
     {
-      "id": 39,
+      "id": "39",
       "name": "São Paulo FC",
       "country": "Brazil",
       "league": "Brasileirão",
@@ -549,13 +693,17 @@
       "stadium": "Morumbi",
       "founded": 1930,
       "trophies": 24,
-      "topPlayers": ["Luciano", "James Rodríguez", "Calleri"],
+      "topPlayers": [
+        "Luciano",
+        "James Rodríguez",
+        "Calleri"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10277.png",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 40,
+      "id": "40",
       "name": "Club América",
       "country": "Mexico",
       "league": "Liga MX",
@@ -563,13 +711,17 @@
       "stadium": "Estadio Azteca",
       "founded": 1916,
       "trophies": 33,
-      "topPlayers": ["Henry Martín", "Álvaro Fidalgo", "Brian Rodríguez"],
+      "topPlayers": [
+        "Henry Martín",
+        "Álvaro Fidalgo",
+        "Brian Rodríguez"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6576.png",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 41,
+      "id": "41",
       "name": "LA Galaxy",
       "country": "USA",
       "league": "MLS",
@@ -577,13 +729,17 @@
       "stadium": "Dignity Health Sports Park",
       "founded": 1994,
       "trophies": 6,
-      "topPlayers": ["Riqui Puig", "Gabriel Pec", "Dejan Joveljić"],
+      "topPlayers": [
+        "Riqui Puig",
+        "Gabriel Pec",
+        "Dejan Joveljić"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Los_Angeles_Galaxy_logo.svg",
       "rating": 3.5,
       "isSaved": false
     },
     {
-      "id": 42,
+      "id": "42",
       "name": "Inter Miami CF",
       "country": "USA",
       "league": "MLS",
@@ -591,13 +747,17 @@
       "stadium": "Chase Stadium",
       "founded": 2018,
       "trophies": 2,
-      "topPlayers": ["Lionel Messi", "Luis Suárez", "Sergio Busquets"],
+      "topPlayers": [
+        "Lionel Messi",
+        "Luis Suárez",
+        "Sergio Busquets"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Inter_Miami_CF_logo.svg",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 43,
+      "id": "43",
       "name": "Newcastle United",
       "country": "England",
       "league": "Premier League",
@@ -605,13 +765,17 @@
       "stadium": "St James' Park",
       "founded": 1892,
       "trophies": 14,
-      "topPlayers": ["Alexander Isak", "Bruno Guimarães", "Anthony Gordon"],
+      "topPlayers": [
+        "Alexander Isak",
+        "Bruno Guimarães",
+        "Anthony Gordon"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8618.png",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 44,
+      "id": "44",
       "name": "Al Nassr FC",
       "country": "Saudi Arabia",
       "league": "Saudi Pro League",
@@ -619,13 +783,17 @@
       "stadium": "Al-Awwal Park",
       "founded": 1955,
       "trophies": 9,
-      "topPlayers": ["Cristiano Ronaldo", "Sadio Mané", "Marcelo Brozović"],
+      "topPlayers": [
+        "Cristiano Ronaldo",
+        "Sadio Mané",
+        "Marcelo Brozović"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Al_Nassr_FC_Logo.svg",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 45,
+      "id": "45",
       "name": "Athletic Club",
       "country": "Spain",
       "league": "La Liga",
@@ -633,13 +801,17 @@
       "stadium": "San Mamés",
       "founded": 1898,
       "trophies": 35,
-      "topPlayers": ["Nico Williams", "Iñaki Williams", "Oihan Sancet"],
+      "topPlayers": [
+        "Nico Williams",
+        "Iñaki Williams",
+        "Oihan Sancet"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 46,
+      "id": "46",
       "name": "SS Lazio",
       "country": "Italy",
       "league": "Serie A",
@@ -653,11 +825,11 @@
         "Alessio Romagnoli"
       ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 47,
+      "id": "47",
       "name": "Yokohama F. Marinos",
       "country": "Japan",
       "league": "J1 League",
@@ -665,13 +837,17 @@
       "stadium": "Nissan Stadium",
       "founded": 1972,
       "trophies": 5,
-      "topPlayers": ["Anderson Lopes", "Yan Matheus", "Kota Watanabe"],
+      "topPlayers": [
+        "Anderson Lopes",
+        "Yan Matheus",
+        "Kota Watanabe"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Yokohama_F_Marinos_logo.svg",
-      "rating": 3.0,
+      "rating": 3,
       "isSaved": false
     },
     {
-      "id": 48,
+      "id": "48",
       "name": "Urawa Red Diamonds",
       "country": "Japan",
       "league": "J1 League",
@@ -679,13 +855,17 @@
       "stadium": "Saitama Stadium 2002",
       "founded": 1950,
       "trophies": 8,
-      "topPlayers": ["Shinzo Koroki", "Yusuke Matsuo", "Marius Høibråten"],
+      "topPlayers": [
+        "Shinzo Koroki",
+        "Yusuke Matsuo",
+        "Marius Høibråten"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Urawa_Red_Diamonds_logo.svg",
-      "rating": 3.0,
+      "rating": 3,
       "isSaved": false
     },
     {
-      "id": 49,
+      "id": "49",
       "name": "Eintracht Frankfurt",
       "country": "Germany",
       "league": "Bundesliga",
@@ -693,13 +873,17 @@
       "stadium": "Deutsche Bank Park",
       "founded": 1899,
       "trophies": 9,
-      "topPlayers": ["Omar Marmoush", "Hugo Ekitiké", "Kevin Trapp"],
+      "topPlayers": [
+        "Omar Marmoush",
+        "Hugo Ekitiké",
+        "Kevin Trapp"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8398.png",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "FC Liverpool",
       "country": "England",
       "league": "Premier League",
@@ -707,13 +891,17 @@
       "stadium": "Anfield",
       "founded": 1874,
       "trophies": 25,
-      "topPlayers": ["Mohamed Salah", "Virgil van Dijk", "Alexis Mac Allister"],
+      "topPlayers": [
+        "Mohamed Salah",
+        "Virgil van Dijk",
+        "Alexis Mac Allister"
+      ],
       "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 51,
+      "id": "51",
       "name": "Dynamo Kyiv",
       "country": "Ukraine",
       "league": "Ukrainian Premier League",
@@ -721,13 +909,17 @@
       "stadium": "Valeriy Lobanovskyi Stadium",
       "founded": 1927,
       "trophies": 35,
-      "topPlayers": ["Vitaliy Buialskyi", "Illia Zabarnyi", "Denys Popov"],
+      "topPlayers": [
+        "Vitaliy Buialskyi",
+        "Illia Zabarnyi",
+        "Denys Popov"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Dynamo_Kyiv_logo.svg",
       "rating": 3.5,
       "isSaved": false
     },
     {
-      "id": 52,
+      "id": "52",
       "name": "Wolverhampton Wanderers",
       "country": "England",
       "league": "Premier League",
@@ -735,13 +927,17 @@
       "stadium": "Molineux Stadium",
       "founded": 1877,
       "trophies": 13,
-      "topPlayers": ["Matheus Cunha", "Pablo Sarabia", "Mario Lemina"],
+      "topPlayers": [
+        "Matheus Cunha",
+        "Pablo Sarabia",
+        "Mario Lemina"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Wolverhampton_Wanderers.svg",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     },
     {
-      "id": 53,
+      "id": "53",
       "name": "Sevilla FC",
       "country": "Spain",
       "league": "La Liga",
@@ -749,10 +945,73 @@
       "stadium": "Ramón Sánchez-Pizjuán",
       "founded": 1890,
       "trophies": 12,
-      "topPlayers": ["Youssef En-Nesyri", "Isaac Romero", "Dodi Lukébakio"],
+      "topPlayers": [
+        "Youssef En-Nesyri",
+        "Isaac Romero",
+        "Dodi Lukébakio"
+      ],
       "logo": "https://en.wikipedia.org/wiki/Special:FilePath/Sevilla_FC_logo.svg",
-      "rating": 4.0,
+      "rating": 4,
       "isSaved": false
     }
-  ]
+  ],
+  "created clubs": [
+    {
+      "name": "CocaCola Team",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZedQDs84vguwp5EaD1urufaIRw6Nnk4ubqmU9c0M_XQ&s=10",
+      "stadium": "Coca Cola Arena",
+      "league": "CML",
+      "budget": 20000000,
+      "coach": "Tim Bentle",
+      "formation": "4-4-2",
+      "players": [
+        {
+          "id": 1,
+          "name": "Neymar Jr.",
+          "number": 11,
+          "position": "ST",
+          "country": "Brazil",
+          "isCaptain": true
+        }
+      ],
+      "id": "V0v8KmUWU-8"
+    },
+    {
+      "name": "Google Team",
+      "logo": "https://cdn2.hubspot.net/hubfs/53/image8-2.jpg",
+      "stadium": "Google Arena",
+      "league": "CML",
+      "budget": 25000000,
+      "coach": "Mr Nobody",
+      "formation": "5-3-1",
+      "players": [
+        {
+          "id": 1,
+          "name": "James",
+          "number": 1,
+          "position": "GK",
+          "country": "Portugal",
+          "isCaptain": true
+        },
+        {
+          "id": 2,
+          "name": "Rosse",
+          "number": 2,
+          "position": "RB",
+          "country": "Spain",
+          "isCaptain": false
+        },
+        {
+          "id": 3,
+          "name": "Hindel",
+          "number": 12,
+          "position": "LW",
+          "country": "Germany",
+          "isCaptain": false
+        }
+      ],
+      "id": "NUIrgt8emo0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
