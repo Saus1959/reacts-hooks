@@ -43,7 +43,7 @@ const TeamDetails = () => {
   }, [id]);
 
   const handleDelete = () => {
-    const confirmed = window.confirm("Удалить этот клуб? Действие необратимо.");
+    const confirmed = window.confirm("Do you want to delete?");
     if (!confirmed) return;
 
     axios
@@ -83,7 +83,6 @@ const TeamDetails = () => {
       </Link>
 
       <div className="w-full rounded-lg bg-[#111722] border border-zinc-700 p-4 sm:p-6">
-        {/* ===== Header ===== */}
         <div className="flex items-center gap-4 pb-6 mb-6 border-b border-zinc-800">
           <div className="w-16 h-16 sm:w-20 sm:h-20 rounded-lg bg-[#0e121b] border border-zinc-700 flex items-center justify-center overflow-hidden shrink-0">
             {club.logo ? (
@@ -111,8 +110,6 @@ const TeamDetails = () => {
             </p>
           </div>
         </div>
-
-        {/* ===== Content: specs + pitch side by side on large screens ===== */}
         <div className="grid grid-cols-1 lg:grid-cols-[1fr_1.3fr] gap-6">
           <section>
             <h2 className="text-lg uppercase tracking-wider pb-1 text-zinc-300">

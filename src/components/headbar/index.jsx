@@ -1,9 +1,31 @@
-import React from "react";
+import { useState, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMagnifyingGlass, faBell } from "@fortawesome/free-solid-svg-icons";
+import {
+  faMagnifyingGlass,
+  faSun,
+  faMoon,
+} from "@fortawesome/free-solid-svg-icons";
 import ProfileDropdown from "./profileDropdown";
 
 const Headbar = () => {
+  const [mode, setMode] = useState("dark");
+
+  useEffect(() => {
+    if (mode === "dark") {
+      document.documentElement.classList.add("dark");
+    } else {
+      document.documentElement.classList.remove("dark");
+    }
+  }, [mode]);
+
+  const changeMode = () => {
+    if (mode === "dark") {
+      setMode("light");
+    } else {
+      setMode("dark");
+    }
+  };
+
   return (
     <div className="px-4 md:px-5 py-4 md:py-4 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 sm:gap-2">
       <div className="flex flex-wrap items-baseline justify-center gap-2">
@@ -14,8 +36,8 @@ const Headbar = () => {
         <button>
           <FontAwesomeIcon icon={faMagnifyingGlass} />
         </button>
-        <button>
-          <FontAwesomeIcon icon={faBell} />
+        <button onClick={changeMode}>
+          <FontAwesomeIcon icon={mode === "dark" ? faSun : faMoon} />
         </button>
         <ProfileDropdown />
       </div>

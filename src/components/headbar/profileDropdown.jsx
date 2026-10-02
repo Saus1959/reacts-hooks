@@ -42,7 +42,7 @@ function ProfileDropdown() {
         <div className="absolute right-0 z-10 w-48 mt-2 origin-top-right bg-white rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none">
           <div className="py-1">
             <div className="px-4 py-2 border-b border-gray-100">
-              <p className="text-sm text-gray-500">Вошли как</p>
+              <p className="text-sm text-gray-500">Enterad as</p>
               <p className="text-sm font-medium text-gray-900 truncate">
                 scout@example.com
               </p>
@@ -53,7 +53,7 @@ function ProfileDropdown() {
               onClick={() => setIsOpen(false)}
             >
               <FontAwesomeIcon icon={faUser} className="mr-3 w-4" />
-              Мой профиль
+              My profile
             </button>
 
             <button
@@ -61,7 +61,7 @@ function ProfileDropdown() {
               onClick={() => setIsOpen(false)}
             >
               <FontAwesomeIcon icon={faGear} className="mr-3 w-4" />
-              Настройки
+              Settings
             </button>
 
             <button
@@ -69,7 +69,7 @@ function ProfileDropdown() {
               className="flex items-center w-full px-4 py-2 text-sm text-red-600 transition-colors hover:bg-red-50"
             >
               <FontAwesomeIcon icon={faRightFromBracket} className="mr-3 w-4" />
-              Выйти
+              Exit
             </button>
           </div>
         </div>
