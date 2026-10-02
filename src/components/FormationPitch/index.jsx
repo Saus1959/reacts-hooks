@@ -11,10 +11,10 @@ const parseFormation = (formation) => {
 };
 
 const PlaceholderDot = () => (
-  <div className="w-9 h-9 sm:w-11 sm:h-11 rounded-full flex items-center justify-center border-2 border-zinc-500 bg-[#0e121b]/70">
+  <div className="w-9 h-9 sm:w-11 sm:h-11 rounded-full flex items-center justify-center border-2 border-zinc-500 bg-base/70">
     <FontAwesomeIcon
       icon={faUser}
-      className="text-xs sm:text-sm text-zinc-500"
+      className="text-xs sm:text-sm border-muted"
     />
   </div>
 );
@@ -25,7 +25,7 @@ const FormationPitch = ({ formation }) => {
 
   return (
     <div
-      className="relative rounded-xl border border-zinc-700 overflow-hidden"
+      className="relative rounded-xl border border-line overflow-hidden"
       style={{
         background:
           "repeating-linear-gradient(180deg, rgba(16,90,60,0.35) 0px, rgba(16,90,60,0.35) 40px, rgba(12,70,46,0.35) 40px, rgba(12,70,46,0.35) 80px)",

@@ -99,7 +99,7 @@ const CreateClubForm = () => {
           <h1 className="text-xl md:text-2xl uppercase tracking-wider">
             Create a club
           </h1>
-          <p className="text-xs md:text-sm text-zinc-400">
+          <p className="text-xs md:text-sm border-muted">
             Fill the form and submit the creation
           </p>
         </div>
@@ -107,16 +107,16 @@ const CreateClubForm = () => {
 
       <form
         onSubmit={handleSubmit}
-        className="w-full bg-[#111722] border border-zinc-700 rounded-lg p-4 sm:p-6 space-y-8 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-12 md:gap-y-8"
+        className="w-full bg-surface border border-line rounded-lg p-4 sm:p-6 space-y-8 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-12 md:gap-y-8"
       >
         <section className="space-y-4">
-          <h2 className="text-lg uppercase tracking-wider text-zinc-300">
+          <h2 className="text-lg uppercase tracking-wider text-secondary">
             Club info
           </h2>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div>
-              <label className="block text-sm text-zinc-400 mb-1.5">
+              <label className="block text-sm border-muted mb-1.5">
                 Club name
               </label>
               <input
@@ -125,11 +125,11 @@ const CreateClubForm = () => {
                 value={club.name}
                 onChange={handleClubField("name")}
                 placeholder="FC Real Madrid"
-                className="w-full border border-zinc-600 rounded-lg px-3 py-2 text-sm bg-[#0e121b] focus:outline-none focus:border-[#20D99A] transition-colors"
+                className="w-full border border-line rounded-lg px-3 py-2 text-sm bg-base focus:outline-none focus:border-[#20D99A] transition-colors"
               />
             </div>
             <div>
-              <label className="block text-sm text-zinc-400 mb-1.5">
+              <label className="block text-sm border-muted mb-1.5">
                 Logo URL
               </label>
               <input
@@ -137,11 +137,11 @@ const CreateClubForm = () => {
                 value={club.logo}
                 onChange={handleClubField("logo")}
                 placeholder="https://example.com/logo.png"
-                className="w-full border border-zinc-600 rounded-lg px-3 py-2 text-sm bg-[#0e121b] focus:outline-none focus:border-[#20D99A] transition-colors"
+                className="w-full border border-line rounded-lg px-3 py-2 text-sm bg-base focus:outline-none focus:border-[#20D99A] transition-colors"
               />
             </div>
             <div>
-              <label className="block text-sm text-zinc-400 mb-1.5">
+              <label className="block text-sm border-muted mb-1.5">
                 Stadium
               </label>
               <input
@@ -149,11 +149,11 @@ const CreateClubForm = () => {
                 value={club.stadium}
                 onChange={handleClubField("stadium")}
                 placeholder="Camp Nou"
-                className="w-full border border-zinc-600 rounded-lg px-3 py-2 text-sm bg-[#0e121b] focus:outline-none focus:border-[#20D99A] transition-colors"
+                className="w-full border border-line rounded-lg px-3 py-2 text-sm bg-base focus:outline-none focus:border-[#20D99A] transition-colors"
               />
             </div>
             <div>
-              <label className="block text-sm text-zinc-400 mb-1.5">
+              <label className="block text-sm border-muted mb-1.5">
                 League
               </label>
               <input
@@ -161,11 +161,11 @@ const CreateClubForm = () => {
                 value={club.league}
                 onChange={handleClubField("league")}
                 placeholder="EPL"
-                className="w-full border border-zinc-600 rounded-lg px-3 py-2 text-sm bg-[#0e121b] focus:outline-none focus:border-[#20D99A] transition-colors"
+                className="w-full border border-line rounded-lg px-3 py-2 text-sm bg-base focus:outline-none focus:border-[#20D99A] transition-colors"
               />
             </div>
             <div>
-              <label className="block text-sm text-zinc-400 mb-1.5">
+              <label className="block text-sm border-muted mb-1.5">
                 Budget ($)
               </label>
               <input
@@ -173,11 +173,11 @@ const CreateClubForm = () => {
                 value={club.budget}
                 onChange={handleClubField("budget")}
                 placeholder="150000000"
-                className="w-full border border-zinc-600 rounded-lg px-3 py-2 text-sm bg-[#0e121b] focus:outline-none focus:border-[#20D99A] transition-colors"
+                className="w-full border border-line rounded-lg px-3 py-2 text-sm bg-base focus:outline-none focus:border-[#20D99A] transition-colors"
               />
             </div>
             <div>
-              <label className="block text-sm text-zinc-400 mb-1.5">
+              <label className="block text-sm border-muted mb-1.5">
                 Head Coach
               </label>
               <input
@@ -185,11 +185,11 @@ const CreateClubForm = () => {
                 value={club.coach}
                 onChange={handleClubField("coach")}
                 placeholder="Jose Mourinho"
-                className="w-full border border-zinc-600 rounded-lg px-3 py-2 text-sm bg-[#0e121b] focus:outline-none focus:border-[#20D99A] transition-colors"
+                className="w-full border border-line rounded-lg px-3 py-2 text-sm bg-base focus:outline-none focus:border-[#20D99A] transition-colors"
               />
             </div>
             <div className="sm:col-span-2">
-              <label className="block text-sm text-zinc-400 mb-1.5">
+              <label className="block text-sm border-muted mb-1.5">
                 Team formation
               </label>
               <input
@@ -197,7 +197,7 @@ const CreateClubForm = () => {
                 value={club.formation}
                 onChange={handleClubField("formation")}
                 placeholder="4-3-3"
-                className="w-full sm:w-1/2 border border-zinc-600 rounded-lg px-3 py-2 text-sm bg-[#0e121b] focus:outline-none focus:border-[#20D99A] transition-colors"
+                className="w-full sm:w-1/2 border border-line rounded-lg px-3 py-2 text-sm bg-base focus:outline-none focus:border-[#20D99A] transition-colors"
               />
             </div>
           </div>
@@ -206,10 +206,10 @@ const CreateClubForm = () => {
         {/* ===== Players ===== */}
         <section className="space-y-4 md:border-l md:border-zinc-800 md:pl-8">
           <div className="flex items-center justify-between">
-            <h2 className="text-lg uppercase tracking-wider text-zinc-300">
+            <h2 className="text-lg uppercase tracking-wider text-secondary">
               Players
             </h2>
-            <span className="text-sm text-zinc-400">
+            <span className="text-sm border-muted">
               {players.length} players in club
             </span>
           </div>
@@ -229,7 +229,7 @@ const CreateClubForm = () => {
           <button
             type="button"
             onClick={addPlayer}
-            className="flex items-center justify-center gap-2 w-full border border-dashed border-zinc-600 rounded-lg py-3 text-sm text-zinc-400 hover:border-[#20D99A] hover:text-[#20D99A] transition-colors"
+            className="flex items-center justify-center gap-2 w-full border border-dashed border-line rounded-lg py-3 text-sm border-muted hover:border-[#20D99A] hover:text-[#20D99A] transition-colors"
           >
             <FontAwesomeIcon icon={faUserPlus} />
             Add player

@@ -1,9 +1,41 @@
 @import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500;600;700&display=swap");
 @import "tailwindcss";
 
+@theme {
+  --color-brand: #20d99a;
+  --color-brand-hover: #1ab881;
+
+  --color-base: var(--bg-base);
+  --color-surface: var(--bg-surface);
+  --color-primary: var(--text-primary);
+  --color-secondary: var(--text-secondary);
+  --color-muted: var(--text-muted);
+  --color-line: var(--border-line);
+}
+
+/* СВЕТЛАЯ ТЕМА */
+:root {
+  --bg-base: #f8fafc;
+  --bg-surface: #ffffff;
+  --text-primary: #0e121b; /* Для главных заголовков */
+  --text-secondary: #3f3f46; /* Для лиг и подзаголовков (отличный контраст) */
+  --text-muted: #64748b; /* Для мелких иконок и примечаний */
+  --border-line: #bbbbbb;
+}
+
+/* ТЕМНАЯ ТЕМА */
+:root.dark {
+  --bg-base: #0e121b;
+  --bg-surface: #111722;
+  --text-primary: #ffffff;
+  --text-secondary: #d4d4d8; /* Бывший zinc-300 */
+  --text-muted: #a1a1aa; /* Бывший zinc-400 */
+  --border-line: #3f3f46;
+}
+
 @custom-variant dark (&:where(.dark, .dark *));
 
 body {
   font-family: "Barlow Condensed", sans-serif;
-  @apply bg-white text-zinc-900 dark:bg-[#0e121b] dark:text-white transition-colors duration-300;
+  @apply bg-base text-primary transition-colors duration-300;
 }

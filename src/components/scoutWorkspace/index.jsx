@@ -62,7 +62,7 @@ const ScoutWorkspace = () => {
 
   return (
     <div className="px-2 pt-2 md:pt-4 lg:pt-5 md:row-start-2 flex flex-col w-full lg:items-start lg:grid lg:grid-cols-[1fr_260px] gap-4 lg:gap-6">
-      <div className="pt-2 md:pt-3 lg:pt-4 min-w-0 rounded-lg bg-[#111722]">
+      <div className="pt-2 md:pt-3 lg:pt-4 min-w-0 rounded-lg bg-surface">
         <SearchInput onChange={(e) => setInputVal(e.target.value)} />
         <GridList
           clubs={filteredClubs}

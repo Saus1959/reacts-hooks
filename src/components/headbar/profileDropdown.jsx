@@ -31,7 +31,7 @@ function ProfileDropdown() {
     <div className="relative inline-block text-left" ref={dropdownRef}>
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className={`flex items-center justify-center w-10 h-10 rounded-full bg-gray-800 text-white border-2 transition-colors duration-300 ${
+        className={`flex items-center justify-center w-10 h-10 rounded-full bg-gray-800 text-primary border-2 transition-colors duration-300 ${
           isOpen ? "border-[#20D99A]" : "border-transparent"
         } hover:border-[#20D99A] focus:outline-none`}
       >

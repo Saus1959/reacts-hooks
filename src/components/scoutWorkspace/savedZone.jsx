@@ -12,7 +12,7 @@ const SavedZone = ({ savedCount, savedClubs, onChange }) => {
 
   return (
     <div
-      className={`py-4 px-4 bg-[#111722] flex flex-col rounded-lg min-h-[140px] sm:min-h-[180px] lg:min-h-[calc(100vh-100px)] ${savedCount <= 5 ? "lg:sticky lg:top-[20px]" : ""}`}
+      className={`py-4 px-4 bg-surface flex flex-col rounded-lg min-h-[140px] sm:min-h-[180px] lg:min-h-[calc(100vh-100px)] ${savedCount <= 5 ? "lg:sticky lg:top-[20px]" : ""}`}
     >
       <div className="flex justify-between">
         <div className="flex flex-col">
@@ -22,7 +22,7 @@ const SavedZone = ({ savedCount, savedClubs, onChange }) => {
               My League
             </h2>
           </div>
-          <p className="text-zinc-400">(ACTIVE SQUAD)</p>
+          <p className="border-muted">(ACTIVE SQUAD)</p>
         </div>
         <div className="h-fit rounded-full bg-[#20D99A] px-2 py-0.5 text-xs font-semibold text-[#0E121B]">
           {savedCount}

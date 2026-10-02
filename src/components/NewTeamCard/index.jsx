@@ -26,10 +26,10 @@ const NewTeamCard = ({ club }) => {
   return (
     <Link
       to={`/custom/${id}`}
-      className="group block bg-[#111722] border border-zinc-700 hover:border-[#20D99A] rounded-lg transition-shadow duration-100 hover:shadow-[0_0_15px_#20D99A] p-4"
+      className="group block bg-surface border border-line hover:border-[#20D99A] rounded-lg transition-shadow duration-100 hover:shadow-[0_0_15px_#20D99A] p-4"
     >
       <div className="flex items-center gap-3 mb-3">
-        <div className="w-12 h-12 rounded-lg bg-[#0e121b] border border-zinc-700 flex items-center justify-center overflow-hidden shrink-0">
+        <div className="w-12 h-12 rounded-lg bg-base border border-line flex items-center justify-center overflow-hidden shrink-0">
           {logo ? (
             <img
               src={logo}
@@ -40,18 +40,18 @@ const NewTeamCard = ({ club }) => {
               }}
             />
           ) : (
-            <FontAwesomeIcon icon={faShieldHalved} className="text-zinc-500" />
+            <FontAwesomeIcon icon={faShieldHalved} className="border-muted" />
           )}
         </div>
         <div className="min-w-0 flex-1">
           <h3 className="text-base font-medium truncate">{name}</h3>
-          <p className="text-xs text-zinc-400 truncate">
+          <p className="text-xs border-muted truncate">
             {league || "No league"}
           </p>
         </div>
       </div>
 
-      <div className="space-y-1.5 text-xs text-zinc-400 border-t border-zinc-700 pt-3">
+      <div className="space-y-1.5 text-xs border-muted border-t border-line pt-3">
         <div className="flex items-center gap-2 truncate">
           <FontAwesomeIcon icon={faLocationDot} className="w-3 shrink-0" />
           <span className="truncate">{stadium || "—"}</span>
@@ -66,8 +66,8 @@ const NewTeamCard = ({ club }) => {
         </div>
       </div>
 
-      <div className="flex items-center justify-between mt-3 pt-3 border-t border-zinc-700">
-        <span className="flex items-center gap-1.5 text-xs text-zinc-400">
+      <div className="flex items-center justify-between mt-3 pt-3 border-t border-line">
+        <span className="flex items-center gap-1.5 text-xs border-muted">
           <FontAwesomeIcon icon={faUserGroup} className="text-[#20D99A]" />
           {players?.length || 0} players
         </span>
@@ -77,7 +77,7 @@ const NewTeamCard = ({ club }) => {
       </div>
 
       {captain && (
-        <div className="flex items-center gap-1.5 mt-2 text-xs text-zinc-500 truncate">
+        <div className="flex items-center gap-1.5 mt-2 text-xs border-muted truncate">
           <FontAwesomeIcon icon={faStar} className="text-yellow-500 shrink-0" />
           <span className="truncate">Capitan: {captain.name}</span>
         </div>

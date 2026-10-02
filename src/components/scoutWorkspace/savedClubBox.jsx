@@ -7,7 +7,7 @@ const SavedClubBox = ({ clubLogoUrl, clubName, onChange, clubId, onSave }) => {
     onChange(clubId);
   };
   return (
-    <div className="bg-slate-800 rounded-lg relative flex items-center gap-2 py-3 px-2">
+    <div className="bg-surface border border-line rounded-lg relative flex items-center gap-2 py-3 px-2">
       <div className="flex justify-center items-center size-12">
         <img
           src={clubLogoUrl}

@@ -31,7 +31,7 @@ const NewTeams = () => {
 
   return (
     <div className="px-2 pt-2 md:pt-4 lg:pt-5 w-full">
-      <div className="pt-2 px-5 md:pt-3 lg:pt-4 min-w-0 rounded-lg bg-[#111722]">
+      <div className="pt-2 px-5 md:pt-3 lg:pt-4 min-w-0 rounded-lg bg-surface">
         <div className="flex items-center justify-between">
           <h2 className="text-2xl font-bold"> Your custom teams</h2>
           <Link

@@ -74,7 +74,7 @@ const Loading = ({
   if (!fullscreen) return content;
 
   return (
-    <div className="fixed inset-0 flex items-center justify-center bg-black/40 backdrop-blur-sm z-50 text-white">
+    <div className="fixed inset-0 flex items-center justify-center bg-black/40 backdrop-blur-sm z-50 text-primary">
       {content}
     </div>
   );

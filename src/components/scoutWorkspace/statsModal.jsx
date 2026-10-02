@@ -12,7 +12,7 @@ const StatsModal = ({ isOpen, onClose, clubName, topPlayers = [] }) => {
       onClick={onClose}
     >
       <div
-        className="w-full max-w-md bg-[#111722] rounded-lg p-5 border border-zinc-700"
+        className="w-full max-w-md bg-surface rounded-lg p-5 border border-line"
         onClick={(e) => e.stopPropagation()}
       >
         <div className="flex items-center justify-between mb-4">
