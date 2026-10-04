@@ -8,6 +8,7 @@ import {
 import PlayerRow from "../../components/PlayerRow/index";
 import axios from "axios";
 import { toast } from "sonner";
+import { useNavigate } from "react-router-dom";
 
 const endpoint = "http://localhost:3000/created%20clubs";
 
@@ -21,6 +22,8 @@ const emptyPlayer = (id) => ({
 });
 
 const CreateClubForm = () => {
+  const navigate = useNavigate();
+
   const [club, setClub] = useState({
     name: "",
     logo: "",
@@ -81,6 +84,7 @@ const CreateClubForm = () => {
         console.log(data);
         if (status === 201) {
           toast.success("New club created");
+          navigate("/custom");
         }
       })
       .catch((err) => {
@@ -192,13 +196,17 @@ const CreateClubForm = () => {
               <label className="block text-sm border-muted mb-1.5">
                 Team formation
               </label>
-              <input
-                type="text"
+              <select
                 value={club.formation}
                 onChange={handleClubField("formation")}
-                placeholder="4-3-3"
                 className="w-full sm:w-1/2 border border-line rounded-lg px-3 py-2 text-sm bg-base focus:outline-none focus:border-[#20D99A] transition-colors"
-              />
+              >
+                <option value="4-4-2">4-4-2</option>
+                <option value="4-3-3">4-3-3</option>
+                <option value="5-3-1">5-3-1</option>
+                <option value="3-4-3">3-4-3</option>
+                <option value="3-5-1">3-5-1</option>
+              </select>
             </div>
           </div>
         </section>

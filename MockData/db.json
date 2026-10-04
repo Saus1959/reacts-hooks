@@ -961,7 +961,7 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZedQDs84vguwp5EaD1urufaIRw6Nnk4ubqmU9c0M_XQ&s=10",
       "stadium": "Coca Cola Arena",
       "league": "CML",
-      "budget": 20000000,
+      "budget": 20000005,
       "coach": "Tim Bentle",
       "formation": "4-4-2",
       "players": [
@@ -1011,6 +1011,90 @@
         }
       ],
       "id": "NUIrgt8emo0"
+    },
+    {
+      "name": "Benz",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Mercedes-Benz_Star_2022.svg/1280px-Mercedes-Benz_Star_2022.svg.png?utm_source=az.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "stadium": "Mercedes Arena",
+      "league": "CML",
+      "budget": 25000000,
+      "coach": "Alphonso Carrick",
+      "formation": "4-5-1",
+      "players": [
+        {
+          "id": 1,
+          "name": "Collin",
+          "number": 6,
+          "position": "CDM",
+          "country": "USA",
+          "isCaptain": false
+        },
+        {
+          "id": 2,
+          "name": "Harry",
+          "number": 12,
+          "position": "CF",
+          "country": "England",
+          "isCaptain": true
+        },
+        {
+          "id": 3,
+          "name": "Cole",
+          "number": 28,
+          "position": "LB",
+          "country": "Belgium",
+          "isCaptain": false
+        },
+        {
+          "id": 4,
+          "name": "Heylo",
+          "number": 14,
+          "position": "RB",
+          "country": "Uruguay",
+          "isCaptain": false
+        }
+      ],
+      "id": "BfgmlyDQOMg"
+    },
+    {
+      "name": "Lego ",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWPNnZn-LlPUe9GrkncSKSkLf_pZRmzLlCgJZ5CxeaA&s=10",
+      "stadium": "Lego Land",
+      "league": "CML",
+      "budget": 12000000,
+      "coach": "Robert Leg",
+      "formation": "3-5-1",
+      "players": [
+        {
+          "id": 1,
+          "name": "Miklo",
+          "number": 12,
+          "position": "CD",
+          "country": "Slovakia",
+          "isCaptain": true
+        }
+      ],
+      "id": "4IQtKJ4tyqE"
+    },
+    {
+      "name": "Team Yandex",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_JVrHK6dBbC5gP5-k3JFMMi_w8-0ZW179-z6aEfv_w&s",
+      "stadium": "Yandex Stadium",
+      "league": "CML",
+      "budget": 6000125,
+      "coach": "Artyem Dzuba",
+      "formation": "4-3-3",
+      "players": [
+        {
+          "id": 1,
+          "name": "Igor Yakovlev",
+          "number": 16,
+          "position": "CF",
+          "country": "Russia",
+          "isCaptain": true
+        }
+      ],
+      "id": "vcvitJTdoPg"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

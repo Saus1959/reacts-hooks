@@ -16,6 +16,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import FormationPitch from "../../components/FormationPitch/index";
 import Loading from "../../components/loading";
+import EditModal from "../../components/EditModal";
 
 const API_ENDPOINT = "http://localhost:3000/created%20clubs";
 
@@ -30,6 +31,7 @@ const TeamDetails = () => {
 
   const [club, setClub] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
+  const [edit, setEdit] = useState(false);
 
   useEffect(() => {
     setIsLoading(true);
@@ -177,13 +179,13 @@ const TeamDetails = () => {
             </dl>
 
             <div className="flex flex-col sm:flex-row gap-3 mt-6">
-              <Link
-                to={`/custom/${id}/edit`}
+              <button
+                onClick={() => setEdit(true)}
                 className="flex-1 inline-flex items-center justify-center gap-2 bg-zinc-700 hover:bg-zinc-600 text-primary text-sm font-medium px-5 py-3 rounded-lg transition-colors"
               >
                 <FontAwesomeIcon icon={faPen} />
                 Edit
-              </Link>
+              </button>
               <button
                 onClick={handleDelete}
                 className="flex-1 inline-flex items-center justify-center gap-2 bg-red-800 hover:bg-red-700 text-primary text-sm font-medium px-5 py-3 rounded-lg transition-colors"
@@ -202,6 +204,13 @@ const TeamDetails = () => {
           </section>
         </div>
       </div>
+      <EditModal
+        key={club.id}
+        club={club}
+        isOpen={edit}
+        closeModal={() => setEdit(false)}
+        className={edit ? "" : "hidden"}
+      />
     </div>
   );
 };
